@@ -1,0 +1,412 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.10.1-Pisa">
+  <title></title>
+  <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="perth_trams__120160103215922744" name="perth_trams_ 1">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="perth_trams_9_points20160103140102161" name="perth_trams_9_points">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="perth_trams_8_points20160103135819996" name="perth_trams_8_points">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="perth_trams_5_points_p120160102142427622" name="perth_trams_5_points_p1">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="perth_trams_11_points20160103140556387" name="perth_trams_11_points">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="OpenLayers_plugin_layer20160102141351168" name="OpenStreetMap">
+      <customproperties>
+        <property key="overview" value="1"/>
+      </customproperties>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <relations/>
+  <mapcanvas>
+    <units>meters</units>
+    <extent>
+      <xmin>12893021.2657280508428812</xmin>
+      <ymin>-3749973.33893985534086823</ymin>
+      <xmax>12894842.9957019854336977</xmax>
+      <ymax>-3748151.60896621411666274</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>1</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+        <srsid>3857</srsid>
+        <srid>3857</srid>
+        <authid>EPSG:3857</authid>
+        <description>WGS 84 / Pseudo Mercator</description>
+        <projectionacronym>merc</projectionacronym>
+        <ellipsoidacronym>WGS84</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <layer_coordinate_transform_info>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="USER:100001" srcDatumTransform="-1" destDatumTransform="-1" layerid="perth_trams_8_points20160103135819996"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="USER:100001" srcDatumTransform="-1" destDatumTransform="-1" layerid="perth_trams__120160103215454324"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="USER:100001" srcDatumTransform="-1" destDatumTransform="-1" layerid="perth_trams__120160103215711072"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="USER:100001" srcDatumTransform="-1" destDatumTransform="-1" layerid="perth_trams_9_points20160103140102161"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="USER:100001" srcDatumTransform="-1" destDatumTransform="-1" layerid="perth_trams_modified20160102141449207"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="USER:100001" srcDatumTransform="-1" destDatumTransform="-1" layerid="perth_trams__120160103215628755"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="USER:100001" srcDatumTransform="-1" destDatumTransform="-1" layerid="perth_trams_5_points_p120160102142427622"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="USER:100001" srcDatumTransform="-1" destDatumTransform="-1" layerid="perth_trams__120160103215922744"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="USER:100001" srcDatumTransform="-1" destDatumTransform="-1" layerid="perth_trams_11_points20160103140556387"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="USER:100001" srcDatumTransform="-1" destDatumTransform="-1" layerid="perth_trams__120160103215602978"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20160102141351168"/>
+    </layer_coordinate_transform_info>
+  </mapcanvas>
+  <visibility-presets/>
+  <layer-tree-canvas>
+    <custom-order enabled="0">
+      <item>OpenLayers_plugin_layer20160102141351168</item>
+      <item>perth_trams_5_points_p120160102142427622</item>
+      <item>perth_trams_8_points20160103135819996</item>
+      <item>perth_trams_9_points20160103140102161</item>
+      <item>perth_trams_11_points20160103140556387</item>
+      <item>perth_trams__120160103215922744</item>
+    </custom-order>
+  </layer-tree-canvas>
+  <legend updateDrawingOrder="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="perth_trams_ 1" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="perth_trams__120160103215922744" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="perth_trams_9_points" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="perth_trams_9_points20160103140102161" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="perth_trams_8_points" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="perth_trams_8_points20160103135819996" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="perth_trams_5_points_p1" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="perth_trams_5_points_p120160102142427622" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="perth_trams_11_points" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="perth_trams_11_points20160103140556387" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="OpenStreetMap" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="1" layerid="OpenLayers_plugin_layer20160102141351168" visible="1"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <mapcanvas>
+    <units>degrees</units>
+    <extent>
+      <xmin>198.13139980888098535</xmin>
+      <ymin>-287.42040055211930394</ymin>
+      <xmax>445.43437010591065928</xmax>
+      <ymax>-30.03426193825791302</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>0</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+        <srsid>3452</srsid>
+        <srid>4326</srid>
+        <authid>EPSG:4326</authid>
+        <description>WGS 84</description>
+        <projectionacronym>longlat</projectionacronym>
+        <ellipsoidacronym>WGS84</ellipsoidacronym>
+        <geographicflag>true</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <layer_coordinate_transform_info/>
+  </mapcanvas>
+  <projectlayers layercount="6">
+    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="openlayers">
+      <id>OpenLayers_plugin_layer20160102141351168</id>
+      <datasource>.</datasource>
+      <title></title>
+      <abstract></abstract>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>OpenStreetMap</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <srsid>3857</srsid>
+          <srid>3857</srid>
+          <authid>EPSG:3857</authid>
+          <description>WGS 84 / Pseudo Mercator</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="ol_layer_type" value="OpenStreetMap"/>
+      </customproperties>
+    </maplayer>
+    <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <id>perth_trams_11_points20160103140556387</id>
+      <datasource>../img/perth_trams_11_points.tif</datasource>
+      <title></title>
+      <abstract></abstract>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>perth_trams_11_points</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs</proj4>
+          <srsid>100001</srsid>
+          <srid>0</srid>
+          <authid>USER:100001</authid>
+          <description> * Generated CRS (+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs)</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.584314" alphaBand="0" blueBand="3" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <id>perth_trams_5_points_p120160102142427622</id>
+      <datasource>../img/perth_trams_5_points_p1.tif</datasource>
+      <title></title>
+      <abstract></abstract>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>perth_trams_5_points_p1</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs</proj4>
+          <srsid>100001</srsid>
+          <srid>0</srid>
+          <authid>USER:100001</authid>
+          <description> * Generated CRS (+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs)</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.592157" alphaBand="0" blueBand="3" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <id>perth_trams_8_points20160103135819996</id>
+      <datasource>../img/perth_trams_8_points.tif</datasource>
+      <title></title>
+      <abstract></abstract>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>perth_trams_8_points</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs</proj4>
+          <srsid>100001</srsid>
+          <srid>0</srid>
+          <authid>USER:100001</authid>
+          <description> * Generated CRS (+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs)</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="0.615686" alphaBand="0" blueBand="3" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <id>perth_trams_9_points20160103140102161</id>
+      <datasource>../img/perth_trams_9_points.tif</datasource>
+      <title></title>
+      <abstract></abstract>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>perth_trams_9_points</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs</proj4>
+          <srsid>100001</srsid>
+          <srid>0</srid>
+          <authid>USER:100001</authid>
+          <description> * Generated CRS (+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs)</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" blueBand="3" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <id>perth_trams__120160103215922744</id>
+      <datasource>../img/sliced_georeferenced/perth_trams_ 1.tif</datasource>
+      <title></title>
+      <abstract></abstract>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>perth_trams_ 1</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs</proj4>
+          <srsid>100001</srsid>
+          <srid>0</srid>
+          <authid>USER:100001</authid>
+          <description> * Generated CRS (+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs)</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" blueBand="3" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </projectlayers>
+  <properties>
+    <SpatialRefSys>
+      <ProjectCRSProj4String type="QString">+proj=longlat +datum=WGS84 +no_defs</ProjectCRSProj4String>
+      <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
+      <ProjectCRSID type="int">3452</ProjectCRSID>
+      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
+    </SpatialRefSys>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <Gui>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+    </Gui>
+    <Digitizing>
+      <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
+      <LayerSnappingList type="QStringList"/>
+      <LayerSnappingEnabledList type="QStringList"/>
+      <SnappingMode type="QString">current_layer</SnappingMode>
+      <AvoidIntersectionsList type="QStringList"/>
+      <LayerSnappingToleranceUnitList type="QStringList"/>
+      <LayerSnapToList type="QStringList"/>
+      <DefaultSnapType type="QString">off</DefaultSnapType>
+      <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
+      <LayerSnappingToleranceList type="QStringList"/>
+    </Digitizing>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <Automatic type="bool">true</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+  </properties>
+</qgis>
